@@ -8,6 +8,7 @@ This repository contains the source code and libraries for the functionality of 
 
 
 2. System Parts:
+
 Part 1: Ultrasonic Range Sensor HR-SR04 $4- https://www.adafruit.com/product/4007?gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWK9nOFg9-LFgLM61nsgyrghF30-v_zp0_7Xuo74gRQpIhaaqX7Zv8hoCigkQAvD_BwE
 
 Part 2: Load Cell 20kg SEN-14729 $4- https://www.adafruit.com/product/4543
