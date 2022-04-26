@@ -5,7 +5,7 @@ guides, etc... This repository should contain everything needed to replicate you
 This repository contains the source code and libraries for the functionality of our tensiometer. Moreover, this repository also contains documentations on how to use the Tensiometer, the links on where to buy specific parts used in our Tensiometer, and 3D models for the clamps used in our design.
 
 
-
+3
 
 2. System Parts: Indicate the parts and equipment used in your system. Provide links.
 
