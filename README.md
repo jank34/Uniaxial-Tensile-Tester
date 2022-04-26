@@ -5,9 +5,24 @@ guides, etc... This repository should contain everything needed to replicate you
 This repository contains the source code and libraries for the functionality of our tensiometer. Moreover, this repository also contains documentations on how to use the Tensiometer, the links on where to buy specific parts used in our Tensiometer, and 3D models for the clamps used in our design.
 
 
-3
 
-2. System Parts: Indicate the parts and equipment used in your system. Provide links.
+
+2. System Parts:
+Part 1: Ultrasonic Range Sensor HR-SR04 $4-
+
+Part 2: Load Cell 20kg SEN-14729 $4-
+
+Part 3: Amplifier HX711 $2.10- https://www.amazon.com/dp/B00XRRNCOO/ref=cm_sw_r_sms_api_glt_i_WRGSQCYD8AA2CNPMWQPD
+
+Part 4: Microcontoller Ard. Uno $15-
+
+Part 5: LCD Screen With I2C TWI 1602 LCD $5(pack of 2)- https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/ref=asc_df_B019K5X53O/tag=hyprod-20&linkCode=df0&hvadid=312760964359&hvpos=&hvnetw=g&hvrand=703658664021823897&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1022672&hvtargid=pla-563014027379&psc=1
+
+Part 6: Ratchet Crank Crank $20-
+
+Part 7: Pulleys Pulley $20-
+
+Part 8: Metal Cable Cable $3-
 
 
 
