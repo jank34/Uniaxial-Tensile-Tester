@@ -29,6 +29,5 @@ Part 8: Metal Cable Cable $3-
 
 
 
-4. Software Dependencies: Indicate any libraries or special configuration options that need to be
-installed/configured to run your software. Provide links.
-There are two libraries used for the functioning of the main source code. These libraries are included in the Libraries folder of this repository.
+3. Software Dependencies: 
+##Special libraries for code in the library folder in the repository.
