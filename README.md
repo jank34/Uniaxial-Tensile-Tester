@@ -30,4 +30,5 @@ Part 8: Metal Cable Cable $3-
 
 
 3. Software Dependencies: 
-##Special libraries for code in the library folder in the repository.
+
+Special libraries for codes in the library folder in the repository.
