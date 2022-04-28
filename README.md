@@ -1,7 +1,5 @@
 # Uniaxial Tensile Tester
-1. Repository Contents: Explain what is contained in this repository. You don't need to state the obvious, but it's
-important to mention anything custom or unique to your project. For example, 3D models (STL) files, training
-guides, etc... 
+1. Repository Contents:
 
 This repository contains the source code and libraries for the functionality of our tensiometer. Moreover, this repository also contains documentations on how to use the Tensiometer, the links on where to buy specific parts used in our Tensiometer, and 3D models for the clamps used in our design.
 
@@ -17,11 +15,11 @@ Part 4: Microcontoller Ard. Uno $15- https://www.amazon.com/Arduino-A000066-ARDU
 
 Part 5: LCD Screen With I2C TWI 1602 LCD $5 (pack of 2)- https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/ref=asc_df_B019K5X53O/tag=hyprod-20&linkCode=df0&hvadid=312760964359&hvpos=&hvnetw=g&hvrand=703658664021823897&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1022672&hvtargid=pla-563014027379&psc=1
 
-Part 6: Ratchet Crank Crank $20-
+Part 6: Ratchet Crank Crank $26- https://www.amazon.com/CURT-29423-Manual-Trailer-Capacity/dp/B00TU7KME8/ref=sr_1_1?crid=5FC2MYGSWBAJ&keywords=curt+crank&qid=1651167054&s=industrial&sprefix=curt+crank%2Cindustrial%2C47&sr=1-1
 
-Part 7: Pulleys Pulley $20-
+Part 7: Pulleys $24- https://www.amazon.com/Chiloskit-Bearing-Bearings-Lifting-Triangular/dp/B07W1X5LTQ/ref=sr_1_25?crid=KAOX3XFYAL91&keywords=mounted%2Bpulley&qid=1651167187&sprefix=mounted%2Bpulley%2Caps%2C69&sr=8-25&th=1
 
-Part 8: Metal Cable Cable $3-
+Part 8: 6 feet Metal Cable $2-
 
 
 
