@@ -28,3 +28,7 @@ Part 8: 6 feet Metal Cable $2-
 3. Software Dependencies: 
 
 Special libraries for codes in the library folder in the repository.
+
+4. 3D Models:
+
+Misc file contains 3D models of the clamps used in the project.
