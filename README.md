@@ -19,7 +19,8 @@ Part 6: Ratchet Crank Crank $26- https://www.amazon.com/CURT-29423-Manual-Traile
 
 Part 7: Pulleys $24- https://www.amazon.com/Chiloskit-Bearing-Bearings-Lifting-Triangular/dp/B07W1X5LTQ/ref=sr_1_25?crid=KAOX3XFYAL91&keywords=mounted%2Bpulley&qid=1651167187&sprefix=mounted%2Bpulley%2Caps%2C69&sr=8-25&th=1
 
-Part 8: 6 feet Metal Cable $2-
+Part 8: 6 feet Metal Cable $2- https://selkirkmetals.com/products/16-gauge-stainless-steel-rebar-tie-wire/?attribute_size=1+lb+Coil+(USA)+%5B304+Grade%5D+%5BQuantity%3A+1%5D&gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VuQNZg25S4BjEAm6hNkfRDY8u8t7IPsF_znqv66WN3v-eRoYqYu2UMaAg69EALw_wcB
+
 
 
 
